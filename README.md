@@ -8,7 +8,7 @@
 
 - identify when a problem is amenable to a recursive solution and use recursion to solve it
 - trace and accurately identify the output of a recursive function call
-- write a recursive solution to a problem
+- write a recursive solution to a problem  
 - distinguish when to use, classify the performance, and implement code to conduct classic recursive sorting algorithms
 
 ## Introduction
